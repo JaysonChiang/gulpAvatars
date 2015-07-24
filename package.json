@@ -1,0 +1,20 @@
+{
+  "name": "demoGulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-image-resize": "^0.6.0",
+    "gulp-imagemin": "^2.2.1"
+  },
+  "devDependencies": {
+    "concurrent-transform": "^1.0.0",
+    "gulp-gm": "0.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
